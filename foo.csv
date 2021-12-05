@@ -1,56 +1,7 @@
-CPE 101,Fundamentals of Computer Science
-CPE 123,Introduction to Computing
-CPE 133,Digital Design
-CPE 202,Data Structures
-CPE 203,Project-Based Object-Oriented Programming and Design
-CPE 315,Computer Architecture
-CPE 321,Introduction to Computer Security
-CPE 357,Systems Programming
-CPE 400,Special Problems for Undergraduates
-CPE 419,Applied Parallel Computing
-CPE 428,Computer Vision
-CPE 453,Introduction to Operating Systems
-CPE 461,Senior Project I
-CPE 462,Senior Project II
-CPE 464,Introduction to Computer Networks
-CSC 225,Introduction to Computer Organization
-CSC 231,Programming for Engineering Students
-CSC 232,Computer Programming for Scientists and Engineers
-CSC 248,Discrete Structures
-CSC 300,Professional Responsibilities
-CSC 305,Individual Software Design and Development
-CSC 307,Introduction to Software Engineering
-CSC 320,Practical Computer Security for Everyone
-CSC 349,Design and Analysis of Algorithms
-CSC 365,Introduction to Database Systems
-CSC 369,Introduction to Distributed Computing
-CSC 371,Game Design
-CSC 400,Special Problems
-CSC 402,Software Requirements Engineering
-CSC 430,Programming Languages
-CSC 445,Theory of Computation I
-CSC 448,Bioinformatics Algorithms
-CSC 466,Knowledge Discovery from Data
-CSC 471,Introduction to Computer Graphics
-CSC 480,Artificial Intelligence
-CSC 482,Speech and Language Processing
-CSC 484,User-Centered Interface Design and Development
-CSC 491,Senior Project I
-CSC 492,Senior Project II
-CSC 497,Research Senior Project I
-CSC 498,Research Senior Project II
-CSC 500,Directed Study
-CSC 524,System Security
-CSC 572,Computer Graphics
-CSC 580,Artificial Intelligence
-CSC 590,Thesis Seminar
-CSC 596,Research in Computer Science I
-CSC 597,Research in Computer Science II
-CSC 599,Thesis
-DATA 301,Introduction to Data Science
-DATA 401,Data Science Process and Ethics
-DATA 472,Data Science Seminar
-EE 599,Thesis
-LAES 301,Project-Based Learning in Liberal Arts and Engineering Studies
-LAES 302,Advanced Project-Based Learning in Liberal Arts and Engineering Studies
-LAES 461,Senior Project in Liberal Arts and Engineering Studies
+CPE 101,[Fundamentals of Computer Science, 101] 
+CPE 123,[Introduction to Computing, 123] 
+CPE 133,[Digital Design] 
+CPE 202,[Data Structures] 
+CPE 203,[Project-Based Object-Oriented Programming and Design, Object oriented, oop] 
+CPE 315,[Computer Architecture, Architecture] 
+CPE 321,[Introduction to Computer Security, Security] 
