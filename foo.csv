@@ -1,56 +1,56 @@
-CPE 101,[Fundamentals of Computer Science| 101] ,  Appropriate Math Placement Level; or MATH 117 with a grade of C- or better; or MATH 118 with a grade of C- or better; or consent of instructor
-CPE 123,[Introduction to Computing| 123] , Basic computer literacy
-CPE 133,[Digital Design] , An orientation course in student's major (EE 111 and EE 151; or CPE 100) and CPE/CSC 101
-CPE 202,[Data Structures] , CPE/CSC 101 with a grade of C- or better; MATH 141 or MATH 221 with a grade of C- or better; or consent of instructor
-CPE 203,[Project-Based Object-Oriented Programming and Design| Object oriented| oop] ,  CPE/CSC 202 with a grade of C- or better or consent of instructor
-CPE 315,[Computer Architecture| Architecture] , CSC/CPE 102 and CSC/CPE 103, or CSC/CPE 202 and CSC/CPE 203; and one of the following: CSC 225, CPE/EE 229, or CPE/EE 233
-CPE 321,[Introduction to Computer Security| Security] , CPE/CSC 357
-CPE 357,[Systems Programming] , CSC/CPE 102 and CSC/CPE 103 with a grade of C- or better or consent of instructor, or CSC/CPE 202 and CSC/CPE 203 with a grade of C- or better or consent of instructor; and CSC 225 or CPE/EE 229 or CPE/EE 233
-CPE 400,[Special Problems for Undergraduates] , Consent of instructor
-CPE 419,[Applied Parallel Computing| parallel computing| parallel programming] , CPE/CSC 357. Corequisite: CSC 248 or CSC 348. Recommended: CPE 315
-CPE 428,[Computer Vision| cv] , CPE 327 or CPE/CSC 357 or EE 328 or ME 305
-CPE 453,[Introduction to Operating Systems| os] , CSC/CPE 357; and CSC 225, CPE/EE 229, or CPE/EE 233
-CPE 461,[Senior Project I, senior Project| sr project] , CPE 350
-CPE 462,[Senior Project II, senior Project| sr project] ,  CPE 450
-CPE 464,[Introduction to Computer Networks| networks] , CSC/CPE 357. Recommended: STAT 312 or STAT 321 or STAT 350
-CSC 225,[Introduction to Computer Organization | computer organization] , CSC/CPE 202
-CSC 231,[Programming for Engineering Students] , MATH 142; PHYS 121 or PHYS 131 or PHYS 141
-CSC 232,[Computer Programming for Scientists and Engineers] ,  MATH 118 or equivalent
-CSC 248,[Discrete Structures] , CSC/CPE 202 and CSC/CPE 203 with grades of C- or better; or consent of instructor
-CSC 300,[Professional Responsibilities] , Completion of GE Area A3 with a grade of C- or better; CSC/CPE 357; and junior standing
-CSC 305,[Individual Software Design and Development] , CSC/CPE 357
-CSC 307,[Introduction to Software Engineering] , CSC 248 or CSC 348; and CPE/CSC 357 
-CSC 320,[Practical Computer Security for Everyone] , Junior standing; completion of GE Area A with grades of C- or better; and one course in GE Area B4 with a grade of C- or better (GE Area B1 for students on the 2019-20 or earlier catalogs)
-CSC 349,[Design and Analysis of Algorithms | Algorithms] , CPE/CSC 102 and CPE/CSC 103 or CPE/CSC 202 and CPE/CSC 203; MATH 142; and CSC 248, CSC 348, or MATH 248
-CSC 365,[Introduction to Database Systems | databases] , CSC 248 or CSC 348; or CPE/CSC 102 and CPE/CSC 103 and MATH 248; or CPE/CSC 202 and CPE/CSC 203 and MATH 248
-CSC 369,[Introduction to Distributed Computing | Distributed Computing] , CSC/CPE 102 and CSC/CPE 103, or CSC/CPE 202 and CSC/CPE 203; and one of the following: STAT 301, STAT 312, STAT 321 or STAT 350
-CSC 371,[Game Design] , CSC/CPE 102 and CSC/CPE 103; or CSC/CPE 202 and junior standing
-CSC 400,[Special Problems] , Consent of instructor
-CSC 402,[Software Requirements Engineering] ,  CSC 307 or CSC 309
-CSC 430,[Programming Languages | pl] ,  CSC 349 and CSC/CPE 357
-CSC 445,[Theory of Computation I | theory of comp] ,  CSC 248 or CSC 348
-CSC 448,[Bioinformatics Algorithms] ,  CSC 349
-CSC 466,[Knowledge Discovery from Data | kdd] , CSC 349 and one of the following: STAT 302, STAT 312, STAT 321 or STAT 350
-CSC 471,[Introduction to Computer Graphics | graphics] , CPE/CSC 357
-CSC 480,[Artificial Intelligence | ai] , either CSC/CPE 102 and CSC/CPE 103 with a grade of C- or better or consent of instructor; or CSC/CPE 202 with a grade of C- or better and junior standing
-CSC 482,[Speech and Language Processing | nlp] , CSC 466 or CSC 480 or graduate standing. Recommended: CSC 349
-CSC 484,[User-Centered Interface Design and Development] , CSC 307 or CSC 308; junior standing
-CSC 491,[Senior Project I] , CSC 307 or CSC 309; and consent of instructor
-CSC 492,[Senior Project II] , CSC 491 and consent of instructor
-CSC 497,[Research Senior Project I] , CSC 307 or CSC 309; and consent of instructor
-CSC 498,[Research Senior Project II] , CSC 497 and consent of instructor
-CSC 500,[Directed Study] , Fully classified graduate standing and consent of instructor
-CSC 524,[System Security] , CPE/CSC 357 or graduate standing
-CSC 572,[Computer Graphics | grad graphics] , Successful completion of CSC/CPE 471 and graduate standing, or consent of instructor
-CSC 580,[Artificial Intelligence | grad ai] , CSC 480 and graduate standing, or consent of instructor
-CSC 590,[Thesis Seminar | thesis sem] , Graduate standing or consent of instructor
-CSC 596,[Research in Computer Science I] , Consent of instructor
-CSC 597,[Research in Computer Science II] , CSC 596 and consent of instructor
-CSC 599,[Thesis] , CSC 590; CSC 498 or CSC 597; graduate standing; and consent of instructor
-DATA 301,[Introduction to Data Science | intro to data science] , CPE/CSC 202; and one of the following: IME 326, STAT 302, STAT 312, or STAT 313
-DATA 401,[Data Science Process and Ethics] , DATA 301; CSC 365; and CSC 466. Concurrent: DATA 402 and DATA 403
-DATA 472,[Data Science Seminar] , DATA 301
-EE 599,[Thesis] , DATA 301
-LAES 301,[Project-Based Learning in Liberal Arts and Engineering Studies] , MATH 241; PHYS 132; PHYS 133; and GE Area A with grades of C- or better
-LAES 302,[Advanced Project-Based Learning in Liberal Arts and Engineering Studies] , LAES 301
-LAES 461,[Senior Project in Liberal Arts and Engineering Studies] , LAES 302; senior standing; and permission of instructor
+CPE 101,[Fundamentals of Computer Science| 101] ,  Appropriate Math Placement Level; or MATH 117 with a grade of C- or better; or MATH 118 with a grade of C- or better; or consent of instructor, 4
+CPE 123,[Introduction to Computing| 123] , Basic computer literacy, 4
+CPE 133,[Digital Design] , An orientation course in student's major (EE 111 and EE 151; or CPE 100) and CPE/CSC 101, 4
+CPE 202,[Data Structures] , CPE/CSC 101 with a grade of C- or better; MATH 141 or MATH 221 with a grade of C- or better; or consent of instructor, 4
+CPE 203,[Project-Based Object-Oriented Programming and Design| Object oriented| oop] ,  CPE/CSC 202 with a grade of C- or better or consent of instructor, 4
+CPE 315,[Computer Architecture| Architecture] , CSC/CPE 102 and CSC/CPE 103, or CSC/CPE 202 and CSC/CPE 203; and one of the following: CSC 225, CPE/EE 229, or CPE/EE 233, 4
+CPE 321,[Introduction to Computer Security| Security] , CPE/CSC 357, 4
+CPE 357,[Systems Programming] , CSC/CPE 102 and CSC/CPE 103 with a grade of C- or better or consent of instructor, or CSC/CPE 202 and CSC/CPE 203 with a grade of C- or better or consent of instructor; and CSC 225 or CPE/EE 229 or CPE/EE 233, 4
+CPE 400,[Special Problems for Undergraduates] , Consent of instructor, 1-4
+CPE 419,[Applied Parallel Computing| parallel computing| parallel programming] , CPE/CSC 357. Corequisite: CSC 248 or CSC 348. Recommended: CPE 315, 4
+CPE 428,[Computer Vision| cv] , CPE 327 or CPE/CSC 357 or EE 328 or ME 305, 4
+CPE 453,[Introduction to Operating Systems| os] , CSC/CPE 357; and CSC 225, CPE/EE 229, or CPE/EE 233, 4
+CPE 461,[Senior Project I, senior Project| sr project] , CPE 350, 3
+CPE 462,[Senior Project II, senior Project| sr project] ,  CPE 450, 2
+CPE 464,[Introduction to Computer Networks| networks] , CSC/CPE 357. Recommended: STAT 312 or STAT 321 or STAT 350, 4
+CSC 225,[Introduction to Computer Organization | computer organization] , CSC/CPE 202, 4
+CSC 231,[Programming for Engineering Students] , MATH 142; PHYS 121 or PHYS 131 or PHYS 141, 2
+CSC 232,[Computer Programming for Scientists and Engineers] ,  MATH 118 or equivalent, 3
+CSC 248,[Discrete Structures] , CSC/CPE 202 and CSC/CPE 203 with grades of C- or better; or consent of instructor, 4
+CSC 300,[Professional Responsibilities] , Completion of GE Area A3 with a grade of C- or better; CSC/CPE 357; and junior standing, 4
+CSC 305,[Individual Software Design and Development] , CSC/CPE 357, 4
+CSC 307,[Introduction to Software Engineering] , CSC 248 or CSC 348; and CPE/CSC 357 , 4
+CSC 320,[Practical Computer Security for Everyone] , Junior standing; completion of GE Area A with grades of C- or better; and one course in GE Area B4 with a grade of C- or better (GE Area B1 for students on the 2019-20 or earlier catalogs), 4
+CSC 349,[Design and Analysis of Algorithms | Algorithms] , CPE/CSC 102 and CPE/CSC 103 or CPE/CSC 202 and CPE/CSC 203; MATH 142; and CSC 248, CSC 348, or MATH 248, 4
+CSC 365,[Introduction to Database Systems | databases] , CSC 248 or CSC 348; or CPE/CSC 102 and CPE/CSC 103 and MATH 248; or CPE/CSC 202 and CPE/CSC 203 and MATH 248, 4
+CSC 369,[Introduction to Distributed Computing | Distributed Computing] , CSC/CPE 102 and CSC/CPE 103, or CSC/CPE 202 and CSC/CPE 203; and one of the following: STAT 301, STAT 312, STAT 321 or STAT 350, 4
+CSC 371,[Game Design] , CSC/CPE 102 and CSC/CPE 103; or CSC/CPE 202 and junior standing, 4
+CSC 400,[Special Problems] , Consent of instructor, 1-4
+CSC 402,[Software Requirements Engineering] ,  CSC 307 or CSC 309, 4
+CSC 430,[Programming Languages | pl] ,  CSC 349 and CSC/CPE 357, 4
+CSC 445,[Theory of Computation I | theory of comp] ,  CSC 248 or CSC 348, 4
+CSC 448,[Bioinformatics Algorithms] ,  CSC 349, 4
+CSC 466,[Knowledge Discovery from Data | kdd] , CSC 349 and one of the following: STAT 302, STAT 312, STAT 321 or STAT 350, 4
+CSC 471,[Introduction to Computer Graphics | graphics] , CPE/CSC 357, 4
+CSC 480,[Artificial Intelligence | ai] , either CSC/CPE 102 and CSC/CPE 103 with a grade of C- or better or consent of instructor; or CSC/CPE 202 with a grade of C- or better and junior standing, 4
+CSC 482,[Speech and Language Processing | nlp] , CSC 466 or CSC 480 or graduate standing. Recommended: CSC 349, 4
+CSC 484,[User-Centered Interface Design and Development] , CSC 307 or CSC 308; junior standing, 4
+CSC 491,[Senior Project I] , CSC 307 or CSC 309; and consent of instructor, 2
+CSC 492,[Senior Project II] , CSC 491 and consent of instructor, 2
+CSC 497,[Research Senior Project I] , CSC 307 or CSC 309; and consent of instructor, 2
+CSC 498,[Research Senior Project II] , CSC 497 and consent of instructor, 2
+CSC 500,[Directed Study] , Fully classified graduate standing and consent of instructor, 1-4
+CSC 524,[System Security] , CPE/CSC 357 or graduate standing, 4
+CSC 572,[Computer Graphics | grad graphics] , Successful completion of CSC/CPE 471 and graduate standing, or consent of instructor, 4
+CSC 580,[Artificial Intelligence | grad ai] , CSC 480 and graduate standing, or consent of instructor, 4
+CSC 590,[Thesis Seminar | thesis sem] , Graduate standing or consent of instructor, 1
+CSC 596,[Research in Computer Science I] , Consent of instructor, 2
+CSC 597,[Research in Computer Science II] , CSC 596 and consent of instructor, 2
+CSC 599,[Thesis] , CSC 590; CSC 498 or CSC 597; graduate standing; and consent of instructor, 4
+DATA 301,[Introduction to Data Science | intro to data science] , CPE/CSC 202; and one of the following: IME 326, STAT 302, STAT 312, or STAT 313, 4
+DATA 401,[Data Science Process and Ethics] , DATA 301; CSC 365; and CSC 466. Concurrent: DATA 402 and DATA 403, 3
+DATA 472,[Data Science Seminar] , DATA 301, 1
+EE 599,[Thesis] , DATA 301, 4
+LAES 301,[Project-Based Learning in Liberal Arts and Engineering Studies] , MATH 241; PHYS 132; PHYS 133; and GE Area A with grades of C- or better, 4
+LAES 302,[Advanced Project-Based Learning in Liberal Arts and Engineering Studies] , LAES 301, 4
+LAES 461,[Senior Project in Liberal Arts and Engineering Studies] , LAES 302; senior standing; and permission of instructor, 4
