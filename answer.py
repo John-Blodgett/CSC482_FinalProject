@@ -318,8 +318,11 @@ def get_answer(keyword_dict, class_df_2, prof_df_2, answers, not_list):
       elif "class" in answers:
         return("The classes are " + ', '.join(class_df["Course"].unique()))
       elif "section" in answers:
-        secs = [sec.strip() for sec in class_df["Sect"].unique()]
-        return("The sections are " + ', '.join(secs))
+        s = set()
+        for index, row in class_df.iterrows():
+          if row["Sect"] != '\xa0':
+            s.add(row["Course"] + "-" + row["Sect"] + "\n")
+        return ''.join(s)
 
     elif keyword_dict["question"] == "who":
       if "time" in keyword_dict:
@@ -359,7 +362,7 @@ def get_answer(keyword_dict, class_df_2, prof_df_2, answers, not_list):
         return("There are " + str(len(class_df["Name"].unique())) + " such professors.")
       elif "class" in answers:
         # how many total/unique classes
-        if "unique" in answers or "distinct" in answers:
+        if "uniqu" in answers or "distinct" in answers:
           return("There are " + str(len(class_df["Course"].unique())) + " such courses.")
         else:
           return("There are " + str(len(class_df.groupby(["Course", "Sect"]).size())) + " such courses.")
