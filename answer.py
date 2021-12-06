@@ -236,7 +236,7 @@ def get_answer(keyword_dict, class_df_2, prof_df_2, answers, not_list):
         if len(keyword_dict["person"][1]) > 0:
           class_df = filter_df(class_df, "Name", keyword_dict["person"][1][0], how='contains')
         if len(class_df) == 0:
-          return("The person specified does not teach", course, ".")
+          return("The person specified does not teach " + course + ".")
           
         if class_df.iloc[0]["Location"] == '\xa0':
           return("There is no specified location for " + class_df.iloc[0]["Name"] + "'s " + course + " class.")
