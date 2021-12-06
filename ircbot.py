@@ -2,6 +2,8 @@ import socket
 import sys
 import time
 
+
+from answer import getAnswer
 class IRC:
  
     irc = socket.socket()
@@ -60,9 +62,11 @@ while True:
     print("RECEIVED ==> ",text) #:foaad-laptop!~foaad-lap@129.65.232.163 PRIVMSG foaad-bot :what's up?
 
     if "PRIVMSG" in text and channel in text and botnick+":" in text:
-        query = get_query(text)
+        query = get_query(text, botnick)
         # answer = answer_question(query)
-        answer = "None"
+        # print(query, "query")
+        answer = getAnswer(query)
+        # print(answer, "answer")
         irc.send(channel, answer)
 
     if "PRIVMSG" in text and channel in text and botnick+":" in text and "die" in text:
